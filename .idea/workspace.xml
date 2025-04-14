@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="995e3ee6-445d-4baf-b9a0-2bd1b7f3111b" name="Changes" comment="addMudanças">
-      <change afterPath="$PROJECT_DIR$/src/tech/richellemm/pessoas/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tech/richellemm/auxiliares/Profissao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tech/richellemm/pessoas/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Richelle/OneDrive/Documentos/UNIESP/SISTEMAS PARA INTERNET/P2B/Linguagem de Programação I",
-    "onboarding.tips.debug.path": "C:/Users/Richelle/OneDrive/Documentos/UNIESP/SISTEMAS PARA INTERNET/P3B/Padrões de Projeto/PeopleSystem20251/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Richelle/OneDrive/Documentos/UNIESP/SISTEMAS PARA INTERNET/P2B/Linguagem de Programação I&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Richelle/OneDrive/Documentos/UNIESP/SISTEMAS PARA INTERNET/P3B/Padrões de Projeto/PeopleSystem20251/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
