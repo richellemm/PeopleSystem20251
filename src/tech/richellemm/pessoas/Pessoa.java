@@ -1,13 +1,23 @@
 package tech.richellemm.pessoas;
 
+import tech.richellemm.auxiliares.Endereco;
+
 import java.time.LocalDate;
 import java.time.Period;
 
 public class Pessoa {
     private String nome;
     private LocalDate dataNascimento;
-    private String endereco;
+    private Endereco endereco;
     private String telsContato;
+
+    private void setEndereco(Endereco endereco){
+        this.endereco = endereco;
+    }
+
+    private Endereco getEndereco(){
+        return this.endereco;
+    }
 
     public void cadastrar(){
 
